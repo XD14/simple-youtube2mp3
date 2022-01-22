@@ -1,6 +1,5 @@
 const http = require('http'),
     https = require('https'),
-    fs = require('fs'),
     express = require('express'),
     Downloader = require("./downloader"),
     dl = new Downloader(),
