@@ -2,6 +2,8 @@
 
 A simple Youtube to MP3 converter website.
 
+Made to be as simple as possible to deploy and use.
+
 ## Setup
 
 
