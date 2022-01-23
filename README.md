@@ -4,17 +4,18 @@ A simple Youtube to MP3 converter website.
 
 ## Setup
 
-### Commands needed:
 
 Prerequisites:
 
 - ffmpeg
 
-Installation (Linux):
+Installation and deployment (Linux):
 
 ```
 sudo apt install ffmpeg
 ```
+
+Once you have ffmpeg installed at /usr/bin/ffmpeg:
 
 ```sh
 git clone https://github.com/XD14/simple-youtube2mp3
